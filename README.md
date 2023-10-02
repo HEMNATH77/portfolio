@@ -1,5 +1,4 @@
 # portfolio
-<!DOCTYPE html>
 <html>
      <h1> HEMNATH </h1>
      <h2>WEB DEVELOPER</h2>
